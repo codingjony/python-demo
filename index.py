@@ -150,3 +150,6 @@ while True:
     if q == 0:
         clr()
         break
+
+
+# This is one sample python code
