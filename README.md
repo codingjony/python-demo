@@ -1,4 +1,4 @@
-#Simple Bank Manager
+<h1>Simple Bank Manager</h1>
 This is a simple Bank Management Interface <br>
 
 Here you can : - <br>
