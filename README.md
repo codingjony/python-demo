@@ -7,4 +7,6 @@ Here you can : - <br>
 3. Withdraw Money
 4. Check Balances in All Accounts
 
+<h4>Clone this and run index.py</h4> 
+
 Enjoy !!!! 
