@@ -152,4 +152,3 @@ while True:
         break
 
 
-# This is one sample python code
