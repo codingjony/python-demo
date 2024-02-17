@@ -5,7 +5,8 @@ Here you can : - <br>
 1. Create Account
 2. Deposit Money
 3. Withdraw Money
-4. Check Balances in All Accounts
+4. Check Transaction History 
+5. Check Balances in All Accounts
 
 Clone this and run <span styles="font-weight :bold;" >index.py </span>
 
